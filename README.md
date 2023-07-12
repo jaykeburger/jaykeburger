@@ -1,9 +1,9 @@
-<h1>Hi! I'm Jake</h1>
+<h1>Hi! I'm Jake 👋</h1>
 <ul>
-  <li>Software Engineering Intern at Boeing</li>
-  <li>Computer Science Student at the University of Houston</li>
-  <li>Avid enjoyer of enjoying things</li>
-  <li>Website: jake-burger.com</li>
+  <li>Software Engineering Intern at Boeing ✈️</li>
+  <li>Computer Science Student at the University of Houston 🐾</li>
+  <li>Avid enjoyer of enjoying things 🧗</li>
+  <li>Website: jake-burger.com 💻</li>
 </ul>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykeburger&show_icons=true&locale=en&layout=compact&exclude_repo=apartment-violations,CougarHub" alt="jaykeburger" /></p> 
 
