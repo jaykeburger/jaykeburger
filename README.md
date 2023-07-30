@@ -5,6 +5,7 @@
   <li>Avid enjoyer of enjoying things 🧗</li>
   <li>Website: jake-burger.com 💻</li>
 </ul>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykeburger&show_icons=true&locale=en&layout=compact&exclude_repo=apartment-violations,CougarHub" alt="jaykeburger" /></p> 
 
 ### 👨‍💻 Programming and markup languages
