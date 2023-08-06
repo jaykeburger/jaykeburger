@@ -2,6 +2,7 @@
 <ul>
   <li>Software Engineering Intern at Boeing ✈️</li>
   <li>Computer Science Student at the University of Houston 🐾</li>
+  <li>President of Code Coogs 💾</li>
   <li>Avid enjoyer of enjoying things 🧗</li>
   <li>Website: jake-burger.com 💻</li>
 </ul>
