@@ -8,7 +8,7 @@
 </ul>
 
 <p> <!--Most Used Languages--!>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykeburger&show_icons=true&locale=en&layout=compact&exclude_repo=apartment-violations,uni-meet,CougarHub,java-calculator" alt="jaykeburger" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykeburger&show_icons=true&locale=en&layout=compact&exclude_repo=apartment-violations,uni-meet,CougarHub,safety-project,java-calculator" alt="jaykeburger" />
 </p> 
 
 <p align="left"> <!-- GitHub Status --!>
