@@ -11,12 +11,6 @@
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykeburger&show_icons=true&locale=en&layout=compact&exclude_repo=apartment-violations,CougarHub,safety-project,java-calculator" alt="jaykeburger" />
 </p> 
 
-<p align="left"> <!-- GitHub Status --!>
-  <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=350 src="https://github-readme-stats.vercel.app/api?username=jaykeburger&show_icons=true&theme=white">
-  </a>
-</p>
-
 ### 👨‍💻 Programming and markup languages
 
 <p>
